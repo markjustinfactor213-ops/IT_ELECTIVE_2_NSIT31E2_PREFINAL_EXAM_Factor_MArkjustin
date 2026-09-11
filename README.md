@@ -1,4 +1,4 @@
-# IT_ELECTIVE_2_{SECTION}_PREFINAL_EXAM_{LastName}_{FirstName}
+# IT_ELECTIVE_2_BSIT31E2_PREFINAL_EXAM_Factor_MarkJustin
 
 **Name:** Mark Justin Factor
 **Class & Section:** BSIT31E2
